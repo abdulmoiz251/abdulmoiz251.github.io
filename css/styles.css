@@ -10123,10 +10123,25 @@ h3 {
 }
 .masthead .masthead-details {
   font-size: 1.25rem;
+  font-style: italic;
 }
 .masthead .masthead-avatar {
   width: 10rem;
   border-radius: 50%;
+}
+
+.scrollDown svg {
+  opacity: 0.3;
+}
+.scrollDown {
+  color: #fff;
+}
+
+.fa-quote-left {
+  margin-right: 5px;
+}
+.fa-quote-right {
+  margin-left: 5px;
 }
 
 
