@@ -10230,6 +10230,11 @@ h3 {
 .skills h4 {
   clear: both;
   display: block;
+  text-decoration: underline;
+}
+.skill-tag {
+  margin-right: 10px;
+  margin-bottom: 15px;
 }
 .skill-tag svg {
   margin-right: 8px;
