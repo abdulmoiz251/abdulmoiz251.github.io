@@ -10193,6 +10193,24 @@ h3 {
 .portfolio .portfolio-details li {
   padding-bottom: 5px;
 }
+.projects .portfolio-details li {
+  padding-bottom: 15px;
+}
+
+.yibber-outer {
+  background: #49a1ff;
+}
+.yibber-outer img {
+  max-width: 200px;
+}
+
+.sedelle-outer {
+  background: #17202b;
+  padding: 30px;
+}
+.sedelle-outer img {
+  max-width: 450px;
+}
 
 .title {
   font-size: 1.3rem;
