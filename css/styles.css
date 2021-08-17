@@ -10257,7 +10257,7 @@ h3 {
 .skill-name {
   display: inline-block;
 }
-.skills-top a:first-child {
+.skills-top a:not(:last-child) {
   margin-right: 20px;
 }
 .skills-top a {
